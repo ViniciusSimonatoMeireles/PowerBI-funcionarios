@@ -33,8 +33,5 @@ Nenhuma informação real ou sensível foi utilizada.
 ---
 
 ## 🖼️ Preview do Dashboard
-> As imagens do dashboard estão disponíveis na pasta `/imagens`.
+> As imagens do dashboard estão disponíveis na pasta `/imagens PowerBI`.
 
-Exemplo:
-```md
-![Dashboard Geral](imagens/dashboard_geral.png)
